@@ -1,4 +1,4 @@
-[个人网站](https://xyz1024.top/)
+[Blog](https://xyz1024.top/)
 
 > Stats
 
