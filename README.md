@@ -1,7 +1,7 @@
-<div style="text-align:center">
+<div style="text-align: center;">
  [Blog](https://xyz1024.top/)
   <br>
- Stats
+ ## Stats
   <hr>
 </div>
 
